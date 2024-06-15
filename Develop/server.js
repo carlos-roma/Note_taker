@@ -1,10 +1,9 @@
-//importing modules and instanciating expresss
 const express = require('express');
 const path = require('path');
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000; // 
 
-// Parsing JSON and urlencoded form data
+// Parsing JSON 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -26,5 +25,5 @@ app.get('/notes', (req, res) => {
 
 // Starting server
 app.listen(PORT, () => {
-  console.log(`Server is listening on http://localhost:${PORT}`);
+  console.log(`Server is listening on port ${PORT}`);
 });

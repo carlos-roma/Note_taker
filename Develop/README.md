@@ -1,0 +1,35 @@
+# Note Taker
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [How to Use This Application](#How-to-use-this-application)
+  * [Contributors](#contributors)
+  * [Testing](#testing)
+  * [Deployed Application URL](#Deployed-application-url)
+  * [Questions](#questions)
+  
+  ## Description
+  An application to create, modify save and delete notes.
+  
+  ## Installation
+  N/a
+  
+  ## How to Use This Application
+  Press get started and write a new note, save by pressing the button on the upper right corner. To modify just select a saved note and perform your changes before saving again. Delete notes by pressing the trash icon on the save notes. 
+  
+  ## Contributors
+  Personal project
+  
+  ## Testing
+  N/A
+  
+  ## Deployed Application URL
+  https://notes-app-carm-ac1c2a3a2652.herokuapp.com/
+
+
+  
+  ## Questions
+  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check [github/https://github.com/carlos.roma](https://github.com/https://github.com/carlos.roma).
+  

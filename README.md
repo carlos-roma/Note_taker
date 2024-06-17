@@ -14,10 +14,17 @@
   An application to create, modify save and delete notes.
   
   ## Installation
-  N/a
+  N/A
   
   ## How to Use This Application
   Press get started and write a new note, save by pressing the button on the upper right corner. To modify just select a saved note and perform your changes before saving again. Delete notes by pressing the trash icon on the save notes. 
+
+  ## Screenshots
+  
+  ![Screenshot (300)](https://github.com/carlos-roma/Note_taker/assets/68045584/9bdcc03f-e049-4fc3-89df-85c90e54fa52)
+  
+![Screenshot (301)](https://github.com/carlos-roma/Note_taker/assets/68045584/72c981dd-b975-4c5b-8a53-25001224d1dc)
+
   
   ## Contributors
   Personal project
